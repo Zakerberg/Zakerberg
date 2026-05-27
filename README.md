@@ -2,4 +2,4 @@
 
 # 你好，我是Zakerberg. 
 
-## 如果你也喜欢Cherry 古董键盘, 请访问 zakerberg.githu.io
+## 如果你也喜欢Cherry 古董键盘, 请访问 zakerberg.github.io
